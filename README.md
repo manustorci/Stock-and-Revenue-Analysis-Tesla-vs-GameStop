@@ -18,3 +18,7 @@ This project demonstrates the extraction, cleaning, and visualization of stock a
 ## Results
 The project provides insights into stock trends and revenue data through interactive visualizations.
 
+# Risultati del Progetto
+
+## Tesla Stock Prices
+![Tesla Stock Prices](tesla_stock_prices.png)
